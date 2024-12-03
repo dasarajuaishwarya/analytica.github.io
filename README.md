@@ -9,8 +9,8 @@ The application is going to have a responsive and secure design that will make i
 
 [GitHub Repository](https://github.com/dasarajuaishwarya/GVSU-CIS641-ANALYTICA)
 
-[Project Proposal](docs/proposal-template.md)
+[Project Proposal](https://github.com/dasarajuaishwarya/GVSU-CIS641-ANALYTICA/blob/main/docs/proposal-template.md)
 
-[Software Requirements Specification](docs/software_requirements_specification.md)
+[Software Requirements Specification](https://github.com/dasarajuaishwarya/GVSU-CIS641-ANALYTICA/blob/main/docs/software_requirements_specification.md)
 
-[Artifacts](artifacts)
+[Artifacts](https://github.com/dasarajuaishwarya/GVSU-CIS641-ANALYTICA/tree/main/artifacts)
