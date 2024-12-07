@@ -12,3 +12,5 @@ The application is going to have a responsive and secure design that will make i
 [Software Requirements Specification](https://github.com/dasarajuaishwarya/GVSU-CIS641-ANALYTICA/blob/main/docs/software_requirements_specification_final.md)
 
 [Artifacts](https://github.com/dasarajuaishwarya/GVSU-CIS641-ANALYTICA/tree/main/artifacts)
+
+[View Code](https://github.com/dasarajuaishwarya/GVSU-CIS641-ANALYTICA/tree/main/src)
